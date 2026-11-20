@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilaymazepa-pixel.github.io/ilay-ai-site/sitemap.xml
